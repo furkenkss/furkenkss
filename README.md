@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba👋, ben Furkan Beytullah</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🌱 Şuanda öğrendiklerim **Java, React**
+- 🌱 Şuanda öğrendiklerim **:JavaScript, Java, React**
 
 
 - 💬 Bunlar hakkında bana sorabilirsin **Html, Css, Bootstrap, JavaScript**
